@@ -1,5 +1,8 @@
 # testui
 
+## 预览地址
+https://kisatody.github.io/tt-mobile-ui/dist/index.html
+
 ## Project setup
 ```
 npm install
